@@ -47,6 +47,7 @@ creation of a standard windows form application in Visual Studio.
 
 When updating the README template provided, the original code, which made use of 'img src', did not work. Using such code provided a camo error message:
 "Non-Image content-type returned"
+
 There were two possible remedies I could think of for this issue. You could either include the gif file in the github repository and reference it through 
 a relative path (though doing this would actually display the image on the page, not link to an external site), or change the syntax to use the square 
 bracket operators: "[Video Walkthrough]"
