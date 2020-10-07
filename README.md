@@ -42,8 +42,8 @@ This was not so much of an issue but rather an inconvenience: When you are first
 takes quite some time to install all of the necessary files, libraries and dependencies. In the first section of the assignment, I found myself
 gravitating towards my own phone.
 
-Other than these preliminary issues, I did not have any trouble following the guides provided. The creation of this app was very similar to the 
-creation of a standard windows form application in Visual Studio.
+Other than these preliminary issues, I did not have any trouble following the guides provided, though I did have to stop and rewind often. 
+The creation of this app was very similar to the creation of a standard windows form application in Visual Studio.
 
 ## License
 
