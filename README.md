@@ -45,6 +45,7 @@ gravitating towards my own phone.
 Other than these preliminary issues, I did not have any trouble following the guides provided. The creation of this app was very similar to the 
 creation of a standard windows form application in Visual Studio.
 
+
 When updating the README template provided, the original code, which made use of 'img src', did not work. Using such code provided a camo error message:
 
 "Non-Image content-type returned"
