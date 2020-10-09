@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* N/A
+* Created a custom adaptive icon for the application.
+* Added an alertDialog to prompt the user when deleting items.
 
 ## Video Walkthrough
 
